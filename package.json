@@ -1,0 +1,15 @@
+{
+  "name": "karma-inject-mock-preprocessor",
+  "version": "1.0.0",
+  "description": "A Karma plugin for injecting mock dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor"
+  ],
+  "author": "Yell Engineering",
+  "license": "MIT"
+}
