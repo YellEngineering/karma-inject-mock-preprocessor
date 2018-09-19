@@ -1,6 +1,12 @@
 # karma-inject-mock-preprocessor
 A Karma plugin for injecting mock dependencies.
 
+## Installation
+
+```bash
+npm i -S https://github.com/YellEngineering/karma-inject-mock-preprocessor.git
+```
+
 ## Configuration
 
 ```js
